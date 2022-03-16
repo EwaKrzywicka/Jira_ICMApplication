@@ -1,0 +1,37 @@
+ID;Title;Created By;Created On;Estimate;Forecast;Priority;References;Section;Section Depth;Section Description;Suite;Suite ID;Type;Updated By;Updated On
+C1;Login in as an Administrator;Ewa K;03.06.2022 20:04;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Functional;Ewa K;03.07.2022 10:24
+C2;Filtering incidents by incident status;Ewa K;03.07.2022 10:35;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Functional;Ewa K;03.07.2022 10:35
+C3;"Canceling the creation of a new ""Incydent"" as Administrator";Ewa K;03.07.2022 10:47;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Functional;Ewa K;03.07.2022 10:50
+C4;Filling search bar with name of incident.;Ewa K;03.07.2022 11:11;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 11:11
+C5;Filling search bar with number 344.;Ewa K;03.07.2022 11:13;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Functional;Ewa K;03.07.2022 11:13
+C6;Adding new incident.;Ewa K;03.07.2022 11:22;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;3/13/2022 2:56 PM
+C7;Adding new incident with wrong zip code.;Ewa K;03.07.2022 11:43;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 11:43
+C8;Incident with bad data is added.;Ewa K;03.07.2022 12:10;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Functional;Ewa K;03.07.2022 12:10
+C9;Filtering users by role.;Ewa K;03.07.2022 12:16;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 12:22
+C10;Adding new employee.;Ewa K;03.07.2022 12:29;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 14:41
+C11;E-mail control when registering a new employee;Ewa K;03.07.2022 12:34;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 14:36
+C12;Phone number control when registering a new employee;Ewa K;03.07.2022 13:02;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 14:55
+C13;Confirmation password entry control when registering a new employee;Ewa K;03.07.2022 13:19;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 14:37
+C14;Adding audit to incident with Employee;Ewa K;03.07.2022 13:37;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 13:42
+C15;Audit cannot be assigned to user;Ewa K;03.07.2022 14:01;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 14:07
+C16;Adding file to incident;Ewa K;03.07.2022 14:16;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 14:16
+C17;Adding file larger than 512 KB to incident;Ewa K;03.07.2022 14:20;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 14:20
+C18;Deleting an account;Ewa K;03.07.2022 14:28;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.12.2022 14:03
+C19;Deleting an Administrator account;Ewa K;03.07.2022 14:30;;;Medium;;Admistrator;0;Testing application as Administrator account.;Master;S1;Other;Ewa K;03.07.2022 14:52
+C20;Create new user;Ewa K;03.07.2022 14:41;;;Medium;;Creating new account;0;;Master;S1;Other;Ewa K;03.07.2022 14:42
+C21;E-mail control when registering a new user;Ewa K;03.07.2022 14:45;;;Medium;;Creating new account;0;;Master;S1;Other;Ewa K;03.07.2022 14:45
+C22;Phone number control when registering a new user;Ewa K;03.07.2022 14:59;;;Medium;;Creating new account;0;;Master;S1;Other;Ewa K;03.07.2022 14:59
+C23;Confirmation password entry control when registering a new employee;Ewa K;03.07.2022 15:07;;;Medium;;Creating new account;0;;Master;S1;Other;Ewa K;03.07.2022 15:07
+C24;Creating new user with already used e-mail adres;Ewa K;03.12.2022 17:49;;;Medium;;Creating new account;0;;Master;S1;Other;Ewa K;03.12.2022 17:50
+C30;Login in to already created user.;Ewa K;03.12.2022 18:58;;;Medium;;User;0;;Master;S1;Other;Ewa K;03.12.2022 18:58
+C31;Login in to already created user with wrong password.;Ewa K;03.12.2022 19:06;;;Medium;;User;0;;Master;S1;Other;Ewa K;03.12.2022 19:06
+C32;Visibility of main page with incident as an user.;Ewa K;03.12.2022 19:10;;;Medium;;User;0;;Master;S1;Other;Ewa K;03.12.2022 19:10
+C33;Adding new incident as user.;Ewa K;03.12.2022 19:17;;;Medium;;User;0;;Master;S1;Other;Ewa K;03.12.2022 19:17
+C34;Incident details from user account.;Ewa K;03.12.2022 19:19;;;Medium;;User;0;;Master;S1;Other;Ewa K;03.12.2022 19:19
+C35;"Creating new incident with 50 characters in ""Typ incydentu"" field.";Ewa K;3/13/2022 2:54 PM;;;Medium;;User;0;;Master;S1;Other;Ewa K;3/13/2022 2:54 PM
+C36;"Creating new incident with 51 characters in ""Typ incydentu"" field.";Ewa K;3/13/2022 2:59 PM;;;Medium;;User;0;;Master;S1;Other;Ewa K;3/13/2022 2:59 PM
+C25;Login in to already created employee.;Ewa K;03.12.2022 18:07;;;Medium;;Employee;0;;Master;S1;Other;Ewa K;03.12.2022 18:08
+C26;Login in to already created employee with wrong password.;Ewa K;03.12.2022 18:12;;;Medium;;Employee;0;;Master;S1;Other;Ewa K;03.12.2022 18:12
+C27;Incident details from employee account.;Ewa K;03.12.2022 18:28;;;Medium;;Employee;0;;Master;S1;Other;Ewa K;03.12.2022 18:28
+C28;Adding audit to incident from employee account.;Ewa K;03.12.2022 18:39;;;Medium;;Employee;0;;Master;S1;Other;Ewa K;03.12.2022 18:39
+C29;Visibility of main page with incident as an emlopyee not assigned to any audit;Ewa K;03.12.2022 18:54;;;Medium;;Employee;0;;Master;S1;Other;Ewa K;03.12.2022 18:54
